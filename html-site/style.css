@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+header {
+    background: linear-gradient(to right, blue, green);
+    border: 5px solid green;
+    border-radius: 30px;
+    padding: 50px;
+    box-shadow: 3px 5px 10px white;
+}
+
+#anuncio{
+    background-color: pink;
+    width: 10%;
+    padding: 100px;
+    /* position: fixed;
+    right: 100px;
+    bottom: 200px; */
+    
+}
+
+#relative {
+    background: linear-gradient(to bottom, gray, green) ;
+    padding: 100px;
+    margin: 20px; 
+
+}
+
+section {
+    background: linear-gradient(to bottom, gray, green) ;
+   padding: 100px;
+   margin: 20px; 
+}
+
+footer {
+    background: linear-gradient(to right, blue, green);
+    border: 5px solid green;
+    border-radius: 30px;
+    padding: 50px;
+    box-shadow: 3px 5px 10px white;
+    /* position: sticky;
+    bottom: 0; */
+}
