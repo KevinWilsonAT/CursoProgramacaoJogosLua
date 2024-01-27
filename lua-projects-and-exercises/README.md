@@ -13,4 +13,4 @@
 </h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Solar2D](https://img.shields.io/badge/Solar2d-FA8032?style=for-the-badge&logo=solar2d&logoColor=E8E8E8)
+![Solar2D](https://img.shields.io/badge/Solar_2D-F96F29?style=for-the-badge&logo=coronaengine&logoColor=fff)
