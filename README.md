@@ -1,8 +1,5 @@
 ## Curso de Programação de Jogos em Lua
 
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua Logo" min-width="300px" max-width="300px" width="300px" align="right">
-<br>
   <p align="left">
     Projetos e Exercícios feitos na sequência de aulas de programação em Linguagem Lua.
   </p>
